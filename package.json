@@ -1,0 +1,30 @@
+{
+  "name": "webliuye-vue-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "wcli": "bin/wcli",
+    "wcli-add": "bin/wcli-add"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.19.0",
+    "download-git-repo": "^1.1.0",
+    "inquirer": "^6.2.2",
+    "ora": "^3.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webliuye/webliuye-vue-cli.git"
+  },
+  "author": "liuye",
+  "license": "SEE LICENSE IN webliuye-vue-cli",
+  "bugs": {
+    "url": "https://github.com/webliuye/webliuye-vue-cli/issues"
+  },
+  "homepage": "https://github.com/webliuye/webliuye-vue-cli#readme"
+}
